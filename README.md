@@ -1,8 +1,8 @@
 # Pasos para ejecutar el Backend y Frontend de la aplicación
 
-Backend: se inicia aclarando que la base de datos se crea en Azure Database por lo que no es necesario hacer ninguna configuración en el connectionString.
+Backend: se inicia aclarando que la base de datos se crea en Azure Database por lo que no es necesario hacer ninguna configuración en el connectionString y la base de datos se crea con Entity Framework Code First.
 
-Para el correcto funcionamiento de la aplicación se sugiere ejecutar primero el backend, para esto se debe dirigir a la carpeta Backend, abrir la solución y ejecutar el proyecto. El backend está desarrollado en la versión 6.0.
+Para el correcto funcionamiento de la aplicación se sugiere ejecutar primero el backend, para esto se debe dirigir a la carpeta Backend, abrir la solución y ejecutar el proyecto. El backend está desarrollado en la versión 6.
 
 Frontend: El frontend está desarrollado con React/TypeScript, se utiliza la librería de react bootstrap para el diseño de la aplicación.
 
